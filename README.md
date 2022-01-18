@@ -1,3 +1,7 @@
+#  Tela inicial ![tela_inicial](https://user-images.githubusercontent.com/46229778/149954652-2f5ab340-55b0-49bc-9c24-d9ba10261600.png)
+
+
+
 ## Aplicação - Urna Eletrônica
 > Desenvolvimento de uma urna eletrônica, baseada nas urnas de eleição que pode ser usada em qualquer tipo de eleições.
 > Eleição para condominio, empresas e grupos em geral.
