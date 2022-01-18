@@ -1,5 +1,4 @@
 // Arquivo formato JSON
-
 let etapas = [
 	{
 		titulo: 'VEREADOR',
@@ -9,23 +8,23 @@ let etapas = [
 				numero: '10000',
 				nome: 'Fulano de tal',
 				partido: 'ABCD',
-				foto: [
-					{url: 'pref001.jpg', leganda: 'Vereador'}
+				fotos: [
+					{url: 'pref001.jpg', legenda: 'Vereador'}
 				]
 			},
 			{
 				numero: '20000',
 				nome: 'Beltrano de tal',
 				partido: 'EFGH',
-				foto: [
-					{url: 'pref002.jpg', leganda: 'Vereador'}
+				fotos: [
+					{url: 'pref002.jpg', legenda: 'Vereador'}
 				]
 			},
 		]
 	},
 	{
 		titulo: 'PREFEITO',
-		numeros: '2',
+		numeros: 2,
 		candidatos: [
 			{
 				numero: '10',
@@ -33,8 +32,8 @@ let etapas = [
 				partido: 'HPP',
 				vice: 'Predador',
 				fotos: [
-					{url: 'pref001.jpg', leganda: 'Prefeito'},
-					{url: 'pref002.jpg', leganda: 'Vice-Prefeito', small: true}
+					{url: 'pref001.jpg', legenda: 'Prefeito'},
+					{url: 'pref002.jpg', legenda: 'Vice-Prefeito', small: true}
 				]
 			},
 			{
@@ -43,8 +42,8 @@ let etapas = [
 				partido: 'PPS',
 				vice: 'Codar',
 				fotos: [
-					{url: 'pref001.jpg', leganda: 'Prefeito'},
-					{url: 'pref002.jpg', leganda: 'Vice-Prefeito', small: true}
+					{url: 'pref001.jpg', legenda: 'Prefeito'},
+					{url: 'pref002.jpg', legenda: 'Vice-Prefeito', small: true}
 				]
 			},
 		]

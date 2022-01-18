@@ -113,7 +113,7 @@ function confirma() {
 		if ( etapas[etapaAtual] !== undefined ) {
 			iniciarEtapas();
 		} else {
-			document.querySelector('.tela').innerHTML = '<div class="aviso-gigante pisca">FIM!</div>';
+			document.querySelector('.tela').innerHTML = '<div class="aviso--gigante pisca">FIM!</div>';
 			console.log(votos);
 		}
 	}
