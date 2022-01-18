@@ -1,4 +1,6 @@
 #  Tela inicial ![tela_inicial](https://user-images.githubusercontent.com/46229778/149954652-2f5ab340-55b0-49bc-9c24-d9ba10261600.png)
+#  Tela candidato ![tela_candidato](https://user-images.githubusercontent.com/46229778/149957468-bd8bcebc-7c86-4897-9e03-ffff80aa18ea.png)
+
 
 
 ## Aplicação - Urna Eletrônica
