@@ -1,6 +1,4 @@
-<div align="center">
 #  Tela inicial ![tela_inicial](https://user-images.githubusercontent.com/46229778/149954652-2f5ab340-55b0-49bc-9c24-d9ba10261600.png)
-</div>
 
 
 ## Aplicação - Urna Eletrônica
