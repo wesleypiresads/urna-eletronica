@@ -1,4 +1,4 @@
-// Arquivo formato JSON
+// Arquivo com os dados no formato JSON
 let etapas = [
 	{
 		titulo: 'VEREADOR',

@@ -7,7 +7,9 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+	<!-- Class que modela toda a urna -->
 	<div class="urna">
+		<!-- Class que modela a tela da urna -->
 		<div class="tela">
 			<div class="d-1">
 				<div class="d-1-left">
@@ -44,6 +46,8 @@
 				CORRIGIR para REINICIAR seu voto
 			</div>
 		</div>
+		<!-- Fim da tela da urna -->
+		<!-- Inicio do painel do teclado da urna -->
 		<div class="teclado">
 			<div class="teclado--linha">
 				<div class="teclado--botao" onclick="clicou('1')">1</div>
@@ -69,7 +73,9 @@
 				<div class="teclado--botao botao--confirma" onclick="confirma()">CONFIRMA</div>
 			</div>
 		</div>
+		<!-- Fim do painel da urna -->
 	</div>
+	<!-- Fim da class que modela toda a urna -->
 
 	<!-- Scripts JS de integração com HTML -->
 	<!-- Primeiro vamos carregar o arquivo "etapas.js" para carregar a variável etapa -->
